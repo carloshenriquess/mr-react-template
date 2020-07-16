@@ -1,2 +1,2 @@
-# react-template
-Template project for react
+# React Template
+Template project for React
